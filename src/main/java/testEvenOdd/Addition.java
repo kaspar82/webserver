@@ -2,6 +2,6 @@ package testEvenOdd;
 
 public class Addition {
 	 public String add(){
-         return ("Hello World !!!");
+         return ("Hello World Demo!!!");
    }
 }

@@ -17,7 +17,7 @@ public class AdditionTest {
 	@Test
 	public void test() {
 		String i = addition.add();
-		assertEquals("Hello World !!!", i);
+		assertEquals("Hello World Demo!!!", i);
 	}
 
 	/** * destroy the object */
